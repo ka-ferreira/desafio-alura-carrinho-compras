@@ -33,13 +33,3 @@ function limpar() {
     qtdeDigitada.value = '';
 
 }
-
-/*
-echo "# desafio-alura-carrinho-compras" >> README.md
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git branch -M main
-  git remote add origin git@github.com:ka-ferreira/desafio-alura-carrinho-compras.git
-  git push -u origin main
-  */
